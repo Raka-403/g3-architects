@@ -1,0 +1,54 @@
+/* *{
+    margin: 0px;
+    padding: 0px;
+} */
+
+
+
+
+/* shared styles */
+.display-flex{
+display: flex;
+}
+.dark-2{
+color: #424242 ;
+}
+.background-color{
+    background: rgba(255, 144, 14, 0.1); 
+
+}
+
+
+/* header style */
+header{
+width: 1900px ;
+margin: 0 auto;
+}
+
+.container{
+    justify-content: space-around;
+    align-items: center;
+  
+}
+
+.brand-name{
+font-weight: 700;
+/* font-size: 3rem; */
+
+}
+.nav-item{
+margin-right: 40px;
+list-style: none;
+}
+
+.nav-link{
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.brand{
+    text-align: center;
+}
+.banner{
+
+}
